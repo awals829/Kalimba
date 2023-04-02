@@ -1,3 +1,3 @@
-# Asg2
+# Kalimba
 Michael Myer, 
 Andrew Walsh
